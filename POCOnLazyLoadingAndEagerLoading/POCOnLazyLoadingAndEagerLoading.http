@@ -1,0 +1,6 @@
+@POCOnLazyLoadingAndEagerLoading_HostAddress = http://localhost:5207
+
+GET {{POCOnLazyLoadingAndEagerLoading_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
